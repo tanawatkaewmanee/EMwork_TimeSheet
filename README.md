@@ -5,6 +5,3 @@
 $ npm i
 $ npm start
 ```
-
-# Green
-helloworld this is learn branch
