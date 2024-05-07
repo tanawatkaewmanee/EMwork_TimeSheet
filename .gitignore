@@ -107,4 +107,6 @@ dist
 node_modules
 package-lock.json
 
+.config/config.env
+
 lecture
